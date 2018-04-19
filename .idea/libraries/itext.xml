@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="itext">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.5.13.zip!/itextpdf-5.5.13/itext/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.5.13.zip!/itextpdf-5.5.13/itext/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.5.13.zip!/itextpdf-5.5.13/pdfa/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.5.13.zip!/itextpdf-5.5.13/pdfa/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.5.13.zip!/itextpdf-5.5.13/xmlworker/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.5.13.zip!/itextpdf-5.5.13/xmlworker/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.5.13.zip!/itextpdf-5.5.13/xtra/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.5.13.zip!/itextpdf-5.5.13/xtra/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
